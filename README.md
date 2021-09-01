@@ -11,4 +11,4 @@
 
 ### Purpose of the exercise:
 
-Replicate the header from the Revolut landing page, especially the operation of the dropdown menu.
+Replicate the header from the Revolut landing page, especially the behavior of the dropdown menu.
